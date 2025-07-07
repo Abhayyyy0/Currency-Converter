@@ -7,7 +7,6 @@ A simple and elegant currency converter web application that allows users to con
 - 🌍 **Real-time Exchange Rates**: Uses the Frankfurter API to get current exchange rates
 - 🎨 **Modern UI**: Clean and responsive design with smooth animations
 - 🚀 **Fast & Lightweight**: No heavy frameworks, pure HTML, CSS, and JavaScript
-- 📱 **Mobile Friendly**: Responsive design that works on all devices
 - 🎯 **Easy to Use**: Simple interface with dropdown selections and flag indicators
 
 ## Technologies Used
@@ -41,8 +40,6 @@ A simple and elegant currency converter web application that allows users to con
 This project uses the [Frankfurter API](https://www.frankfurter.app/) which provides:
 - Free and reliable exchange rates
 - No API key required
-- CORS-friendly for browser requests
-- Real-time data from the European Central Bank
 
 ## Project Structure
 
@@ -59,8 +56,8 @@ currency-converter/
 ## Features in Detail
 
 ### Currency Selection
-- Dropdown menus with all major world currencies
-- Flag indicators for each currency
+- Dropdown menus with all most world currencies
+- Currency with their respective flags
 - Default selection: USD to INR
 
 ### Real-time Conversion
@@ -89,12 +86,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - [Frankfurter API](https://www.frankfurter.app/) for providing free exchange rate data
 - [Font Awesome](https://fontawesome.com/) for the icons
-- [Flags API](https://flagsapi.com/) for country flag images
-
-## Screenshots
-
-*Add screenshots of your application here*
+- [Flag
 
 ---
 
-**Note**: Exchange rates are updated in real-time and may vary slightly due to market fluctuations. 
